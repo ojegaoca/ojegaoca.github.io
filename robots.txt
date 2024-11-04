@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojegaoca.github.io/btD/sitemap_index.txt
+Sitemap: https://ojegaoca.github.io/dJy/sitemap_index.txt
+Sitemap: https://ojegaoca.github.io/lwS/sitemap_index.txt
+Sitemap: https://ojegaoca.github.io/uPt/sitemap_index.txt
